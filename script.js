@@ -41,7 +41,8 @@ function initCursor() {
   });
 }
 
- const DISCORD_API_URL = "https://sarthak-s-backend.onrender.com";
+ const DISCORD_API_URL = 'https://sarthak-s-backend.onrender.com/api/discord-stats'
+
 
 const REFRESH_INTERVAL = 10000;
 
